@@ -2,7 +2,7 @@
 spring:
   # 动态配置 dev测试环境 pro生产环境
   profiles:
-    active: dev
+    active: pro
   # 资源信息
   messages:
     # 国际化资源文件路径
